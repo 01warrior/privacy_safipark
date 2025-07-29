@@ -1,0 +1,53 @@
+Politique de Confidentialité
+Votre vie privée est importante pour nous. Cette politique de confidentialité décrit comment vos données sont collectées, utilisées et protégées lors de l'utilisation de notre application dédiée à l’analyse et à la prise de décision dans le domaine du trading crypto.
+
+1. Informations collectées
+Nous collectons uniquement les informations strictement nécessaires au bon fonctionnement de l'application :
+
+Adresse e-mail : nécessaires pour créer un compte utilisateur sécurisé.
+
+Préférences de trading : comme les crypto-monnaies suivies, les indicateurs techniques choisis, ou les paramètres personnalisés.
+
+Historique d’utilisation : y compris les types d’analyses demandées, dans le but d’améliorer l’expérience utilisateur.
+
+Aucune donnée financière (comme les clés API ou soldes de portefeuille) n’est collectée, sauf si vous choisissez de les intégrer manuellement pour un usage local uniquement.
+
+2. Utilisation des données
+Les données collectées servent à :
+
+Générer des analyses personnalisées sur la base d’indicateurs techniques (RSI, MACD, etc.) via notre flux automatisé (n8n).
+
+Fournir des recommandations de tendances (ex : "tendance haussière", "signal de vente") sur les paires crypto suivies.
+
+Améliorer la qualité des suggestions et des fonctionnalités de l’application.
+
+Aucune recommandation de trading ne constitue un conseil financier officiel.
+
+3. Sécurité des données
+Nous utilisons des méthodes standards pour protéger vos informations :
+
+Authentification sécurisée via e-mail et mot de passe.
+
+Aucune transmission de données sensibles à des tiers.
+
+Les données ne sont ni revendues, ni partagées à des partenaires commerciaux.
+
+Malgré les mesures de sécurité mises en place, aucun système n’est totalement invulnérable. Nous nous engageons à limiter les risques au maximum.
+
+4. Traitement des données via N8N
+L’application utilise des flux automatisés (n8n) pour effectuer les analyses. Ces flux reçoivent uniquement les données nécessaires à l’exécution des indicateurs sélectionnés.
+
+Aucune donnée personnelle identifiable n’est traitée dans les workflows N8N.
+
+Les analyses sont générées automatiquement, sans intervention humaine.
+
+5. Liens externes et services tiers
+L’application peut inclure des liens vers des plateformes d’échange ou des sources d’actualités (ex. : CoinMarketCap, CoinTelegraph). Ces services ont leurs propres politiques de confidentialité, que nous vous encourageons à lire.
+
+6. Modification de la politique
+Cette politique peut être modifiée en cas d'évolution de l’application ou des obligations légales. Toute modification significative sera affichée directement dans l’application.
+
+7. Suppression du compte
+Vous pouvez à tout moment supprimer votre compte depuis la page Profil, en cliquant sur “Supprimer mon compte”. Cela effacera définitivement toutes vos données personnelles stockées sur nos serveurs.
+
+Date de dernière mise à jour : 29/07/2025
